@@ -1,5 +1,6 @@
 """Taller Presencial Evaluable"""
 
+
 import os
 
 import folium  # type: ignore
